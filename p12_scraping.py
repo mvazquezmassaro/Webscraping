@@ -166,7 +166,7 @@ if __name__ == "__main__":
                         else:
                             ret_dict['imagen'] = None
                     except:
-                        print('no se pudo obtener la imagen')
+                        print('No ha sido posible obtener la imagen')
             else:
                 print('no se encontro media')
             # Extraemos la seccion
